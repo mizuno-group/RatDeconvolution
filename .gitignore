@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# csv/gaf/owl result files
+*.csv
+*.gaf
+*.owl
+*.pickle
+result/*
