@@ -1,12 +1,12 @@
 # REPOSITORY NAME
-BRIEF INTRODUCTION OF THIS REPOSITORY  
+Rat transcriptome deconvolution for investigating immune cell trafficking in liver injury
 
 # Note
 This repository is under construction and will be officially released by [Mizuno group](https://github.com/mizuno-group).  
 Please contact tadahaya[at]gmail.com before publishing your paper using the contents of this repository.  
 
 ## Authors
-- [YOUR NAME](LINK OF YOUR GITHUB PAGE)  
+- [Katsuhisa MORITA](https://github.com/KatsuhisaMorita)  
     - main contributor  
 - [Tadahaya Mizuno](https://github.com/tadahayamiz)  
     - correspondence  
