@@ -1,4 +1,4 @@
-# REPOSITORY NAME
+# RatDeconvolution
 Rat transcriptome deconvolution for investigating immune cell trafficking in liver injury
 
 ## Publication
