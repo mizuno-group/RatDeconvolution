@@ -134,3 +134,6 @@ dmypy.json
 *.owl
 *.pickle
 result/*
+code/old*
+figures/*
+dev/*
