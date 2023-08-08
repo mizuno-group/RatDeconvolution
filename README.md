@@ -4,8 +4,7 @@ Rat transcriptome deconvolution for investigating immune cell trafficking in liv
 ## Publication
 - peer-reviewed publication  
     - Not yet  
-- preprint  
-    - Not yet  
+- [preprint](https://www.biorxiv.org/content/10.1101/2023.06.20.545836v2)  
 
 ## Citation
 Please cite the following if you use any contents of this repository.  
