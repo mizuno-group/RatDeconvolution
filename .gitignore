@@ -133,7 +133,6 @@ dmypy.json
 *.gaf
 *.owl
 *.pickle
-result/*
 code/old*
 figures/*
 dev/*
