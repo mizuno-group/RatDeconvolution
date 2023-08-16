@@ -21,3 +21,7 @@ If you have any questions or comments, please feel free to create an issue on gi
 - winwinwin19963rd[at]gmail.com  
 - tadahaya[at]gmail.com  
     - lead contact  
+
+## Ackowledgement
+The some of results and datasets shown here are based on  
+"Toxicogenomics Project and Toxicogenomics Informatics Project under CC Attribution-Share Alike 2.1 Japan"
