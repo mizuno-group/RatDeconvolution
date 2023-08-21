@@ -6,10 +6,15 @@ Rat transcriptome deconvolution for investigating immune cell trafficking in liv
     - Not yet  
 - [preprint](https://www.biorxiv.org/content/10.1101/2023.06.20.545836v2)  
 
-## Citation
-Please cite the following if you use any contents of this repository.  
-- Not yet  
+## Data
+- RNA-seq data is available in GEO dataset.  
+- The accession number is [GSE239996](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE239996).  
 
+## Citation
+Please cite the following if you use any contents of this repository:  
+  
+Morita K<sup>\*</sup>, Mizuno T<sup>*,§</sup>, Azuma I, Kusuhara H. Rat Deconvolution as Knowledge Miner for Immune Cell Trafficking from Toxicogenomics Databases. *bioRxiv* 2023.06.20.545836; doi: https://doi.org/10.1101/2023.06.20.545836  
+  
 ## Authors
 - [Katsuhisa MORITA](https://github.com/KatsuhisaMorita)  
     - main contributor  
