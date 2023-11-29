@@ -2,9 +2,8 @@
 Rat transcriptome deconvolution for investigating immune cell trafficking in liver injury
 
 ## Publication
-- peer-reviewed publication  
-    - Not yet  
-- [preprint](https://www.biorxiv.org/content/10.1101/2023.06.20.545836v2)  
+- [peer-reviewed publication](https://doi.org/10.1093/toxsci/kfad117)
+- [preprint](https://www.biorxiv.org/content/10.1101/2023.06.20.545836v4)  
 
 ## Data
 - RNA-seq data is available in GEO dataset.  
@@ -13,7 +12,7 @@ Rat transcriptome deconvolution for investigating immune cell trafficking in liv
 ## Citation
 Please cite the following if you use any contents of this repository:  
   
-Morita K<sup>\*</sup>, Mizuno T<sup>*,§</sup>, Azuma I, Kusuhara H. Rat Deconvolution as Knowledge Miner for Immune Cell Trafficking from Toxicogenomics Databases. *bioRxiv* 2023.06.20.545836; doi: https://doi.org/10.1101/2023.06.20.545836  
+Morita K<sup>\*</sup>, Mizuno T<sup>*,§</sup>, Azuma I, Suzuki Y, Kusuhara H. Rat Deconvolution as Knowledge Miner for Immune Cell Trafficking from Toxicogenomics Databases. *Toxicological Sciences*, 2023 kfad117, doi: https://doi.org/10.1093/toxsci/kfad117  
   
 ## Authors
 - [Katsuhisa MORITA](https://github.com/KatsuhisaMorita)  
